@@ -1,4 +1,4 @@
-package com.contest514.one;
+package contest514.one;
 
 import java.util.ArrayList;
 import java.util.Collections;
