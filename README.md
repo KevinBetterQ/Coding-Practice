@@ -24,3 +24,8 @@ practice.nowcoder.netease（8道）：网易2018内推笔试题
 网址：https://leetcode-cn.com/contest/weekly-contest-105  
 总结：看来自己还是只有 easy 的水平呀！多刷题吧
 
+### Contest 2
+第二次，LeetCode Weekly Contest 107，1.5h  
+网址：https://leetcode-cn.com/contest/weekly-contest-107 
+总结： easy 感觉时间还需要快一点，medium还差一点
+
