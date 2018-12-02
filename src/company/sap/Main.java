@@ -1,4 +1,4 @@
-package sap;
+package company.sap;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
